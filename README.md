@@ -7,7 +7,6 @@
 
 ## REDUCE
 1. Get total height of all characters
-2. Get total number of characters by eye color
 
 ## FILTER
 1. Get characters with height less than 200
